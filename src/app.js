@@ -52,7 +52,4 @@ window.onload = function() {
 
   // Generate a random card when the page loads
   generateRandomCard();
-
-  // Log a message to verify the setup
-  console.log("Hello Rigo from the console!");
 };
